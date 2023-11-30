@@ -66,3 +66,9 @@
 .form-course input[type="submit"]:hover{
   opacity: 1  ;
 }
+.highlight{
+  width: 100%;
+  display: block;
+  padding: 10px;
+  background-color: #61dafb;  
+}

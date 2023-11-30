@@ -2,6 +2,7 @@ import './App.css';
 import { FormCourse } from './components/FormCourse';
 import { Home } from './components/Home';
 import { TestingCustomHooks } from './components/TestingCustomHooks';
+import { User } from './components/User';
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <header className="App-header">
         {/* <Home/> */}
         {/* <TestingCustomHooks/> */}
-        <FormCourse/>
+        {/* <FormCourse/> */}
+        <User/>
       </header>
     </div>
   );
